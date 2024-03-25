@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "879096534098",
+    "project_id": "gdsc-firebase-session",
+    "storage_bucket": "gdsc-firebase-session.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:879096534098:android:123aa65c073bc1ba407b8b",
+        "android_client_info": {
+          "package_name": "com.gdsc.firebase_lesson"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD8IaUJ1V5u_VOtIww7IbWLMWt04VxcpOs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
